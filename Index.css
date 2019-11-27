@@ -1,0 +1,27 @@
+main{
+    display: flex;
+    margin-block: 2em 2em 2em 2em;
+}
+.texte{
+    padding: 1em 1em 1em 1em;
+    background-color: #0f7eaa;
+    color:white;
+    font-size: 25px;
+    width: 100%;
+}
+.avatar{
+    width: 50%;
+}
+#avatar img{
+    width: 100%;
+}
+li{
+    font-size: 25px;
+    background-color: #0f7eaa ;
+    color: white;
+
+}
+.texte ul a{
+    color: white;
+    text-decoration: none;
+}
