@@ -1,34 +1,43 @@
-#sociaux{
+#logiciels{
     padding: 1em 1em 1em 1em;
     color: #0f7eaa;
 }
-#sociaux ul li a{
+#logiciels ul li a{
     padding: 1em 1em 1em 1em;
     color: #0f7eaa;
 }
-#référencement{
+#conseils{
     background-color: #0f7eaa;
     color: white;
     padding: 1em 1em 1em 1em;
 }
-#navigateur {
+#calques {
     padding: 1em 1em 1em 1em;
     color:#0f7eaa ;
 }
-#soncas{
+#format{
     background-color:#0f7eaa ;
     color: white;
     padding: 1em 1em 1em 1em;
 }
-#pareto{
+#enregistrement{
     padding: 1em 1em 1em 1em;
 }
-#webdesigner{
+#images{
     background-color:#0f7eaa ;
     color: white;
     padding: 1em 1em 1em 1em;
 }
-#droit ul li a{
+#impression{
+    padding: 1em 1em 1em 1em;
     color: #0f7eaa;
+}
+#exportation{
+    background-color:#0f7eaa ;
+    color: white;
     padding: 1em 1em 1em 1em;
+}
+#vernis{
+    padding: 1em 1em 1em 1em;
+    color: #0f7eaa;
 }
